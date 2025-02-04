@@ -1,0 +1,24 @@
+{
+  "name": "informatic-dossier",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^12.5.0",
+    "lucide-vue-next": "^0.474.0",
+    "particles.js": "^2.0.0",
+    "particlesjs": "^2.2.3",
+    "three": "^0.173.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.11",
+    "vite-plugin-vue-devtools": "^7.7.0"
+  }
+}
